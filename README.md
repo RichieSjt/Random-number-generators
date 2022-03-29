@@ -1,4 +1,4 @@
-# Random-number-generation
+# Random number generation
 Visualisation of different random number generation techniques.
 
 - Middle-square method
